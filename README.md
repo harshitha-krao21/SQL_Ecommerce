@@ -6,6 +6,7 @@ We make use of attached python code to drop csv files into MySQL
 # Prerequistites:
 
 pip install pandas
+
 pip install mysql-connector-python
 
 Enter the correct MySQL connection credentials in python code
