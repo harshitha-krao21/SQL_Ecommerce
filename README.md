@@ -3,7 +3,7 @@ Comprehensive SQL project covering essential commands, queries, and functions to
 
 We make use of attached python code to drop csv files into MySQL
 
-Prerequistites:
+# Prerequistites:
 
 pip install pandas
 pip install mysql-connector-python
