@@ -8,6 +8,8 @@ We make use of attached python code to drop csv files into MySQL
 pip install pandas
 pip install mysql-connector-python
 
+Enter the correct MySQL connection credentials in python code
+
 create database ecommerce - in MySQL
 
 Once database is created, give the same name in python file
